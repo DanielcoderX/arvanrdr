@@ -1,0 +1,11 @@
+[
+    {"name": "Hamrahe Aval", "api": "mci"},
+    {"name": "Pars Online", "api": "parsonline"},
+    {"name": "Afra Net", "api": "afranet"},
+    {"name": "Mobin Net", "api": "mobinnet"},
+    {"name": "Shatel", "api": "shatel"},
+    {"name": "HostIran", "api": "hostiran"},
+    {"name": "DC 1", "api": "tehran-1"},
+    {"name": "DC 2", "api": "tehran-2"},
+    {"name": "DC 3", "api": "tehran-3"}
+]
