@@ -1,6 +1,6 @@
-# ArvanCloud Internet Monitoring Dashboard
+# ArvanCloud Internet Monitoring CLI
 
-The ArvanCloud Internet Monitoring Dashboard is a Ruby-based command-line application that provides real-time monitoring of internet service providers (ISPs) and their data centers. This tool fetches data from the ArvanCloud API, allowing users to visualize the status of various ISPs and their data centers on their terminal.
+The ArvanCloud Internet Monitoring CLI is a Ruby-based command-line application that provides real-time monitoring of internet service providers (ISPs) and their data centers. This tool fetches data from the ArvanCloud API, allowing users to visualize the status of various ISPs and their data centers on their terminal.
 
 ## Features
 
